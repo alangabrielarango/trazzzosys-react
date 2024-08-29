@@ -1,0 +1,7 @@
+.prettierrc
+.env
+server/.env
+server/dist
+server/node_modules
+client/.env.local
+client/node_modules
